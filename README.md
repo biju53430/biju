@@ -12,7 +12,7 @@
 </h1>
 <pre> 
     <h2>
-    click here: <a href="file:///C:/Users/pkrlv/Desktop/sandhya.html">sandhya+biju </a>
+    click here: <a href="sandhya.html">sandhya+biju </a>
     
 </h2>
     
